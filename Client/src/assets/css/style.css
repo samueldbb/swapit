@@ -1,0 +1,105 @@
+.button{
+  margin: 10px ;
+  min-width: 130px;
+  background: #ef8d3d;
+  color: white;
+}
+
+.approveBtn{
+  margin-top: 25px;
+  background: #312b32;
+  border-radius: 25px;
+  min-height: 27px;
+}
+.homeButton{
+  margin: 10px ;
+  width: 321px;
+  height: 60px;
+  background: #312b32;
+  color: white;
+  text-transform: none;
+  font-size: 18px;
+}
+.sellButton{
+  margin: 10px ;
+  width: 100px;
+  height: 60px;
+  background: #312b32;
+  color: white;
+  text-transform: none;
+  font-size: 18px;
+}
+.homeIcon{
+  margin-right: 20px;
+}
+.TitleText{
+  font-size: x-large;
+  color:#04aa6d;
+}
+.primaryTitle{
+  font-size: x-large;
+  color:#312b32;
+  margin-bottom: 5px;
+  margin-top: 15px;
+}
+.subtitleText{
+  height: 20px;
+  color:#312b32;
+}
+
+.text{
+  font-size: x-large;
+  color: #312b32;
+}
+.textMenu{
+  text-align: center;
+  color: #312b32;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.inputStyle{
+  background: #eeeaf4;
+  border-radius: 25px;
+  padding: 5px
+}
+
+.smallSelectable{
+  border-radius: 25px;
+  color: white;
+  background: #CACACA;
+  text-align-last: center;
+  text-align: center;
+  width: 100%;
+  text-transform: initial!important;
+}
+
+.smallSelectable span{
+  margin: auto;
+  color:white;
+}
+
+.smallSelectable .q-field__native{
+  color:white;
+}
+.coinImage{
+  width: 21px;height: 19px
+}
+.tableColumnSlot{
+ font-size: 150%;
+}
+
+.color1{
+  background-color:#312b32
+}
+.color2{
+  background-color:#312b32
+}
+.color3{
+  background-color:#c176cb
+}
+.color4{
+  background-color:#812590
+}
+.color5{
+  background-color:#9a539d
+}
